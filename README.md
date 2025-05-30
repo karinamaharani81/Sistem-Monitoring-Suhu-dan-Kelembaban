@@ -1,6 +1,5 @@
 ![tampilan desktop](https://github.com/user-attachments/assets/a3f42260-4af1-4e00-a4b6-46525553abd4)
 # Sistem-Monitoring-Suhu-dan-Kelembaban
-berdasarkan codingan diatas buatakan seperti ini 
 ## Instalasi
 
 ### 1. Clone Repository
