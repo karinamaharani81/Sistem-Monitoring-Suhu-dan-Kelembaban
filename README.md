@@ -30,7 +30,7 @@ cargo run --bin tcp_server  # atau: cargo build && ./target/debug/tcp_server
 cargo run --bin modbus_client
 ```
 
-## Usage
+## Penggunaan
 
 ### 1. Monitoring Real-time dengan GUI
 Jalankan antarmuka GUI berbasis Tkinter
